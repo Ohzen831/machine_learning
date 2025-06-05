@@ -35,9 +35,9 @@ mkl_fft
 mkl_random
 nest_asyncio
 numexpr
-numpy
+numpy==1.26.4
 packaging
-pandas
+pandas==2.2.3
 parso
 patsy
 pickleshare
@@ -54,8 +54,8 @@ python-dateutil
 pytz
 pywin32==308
 pyzmq
-scikit-learn
-scipy
+scikit-learn==1.6.1
+scipy==1.15.2
 seaborn
 sip
 six
